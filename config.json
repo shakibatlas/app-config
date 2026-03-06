@@ -1,4 +1,5 @@
 {
   "apiUrl": "https://app-backend--yahoofinancebbd.replit.app/api",
-  "adminApiUrl": "https://app-backend--yahoofinancebbd.replit.app/api/admin"
+  "adminApiUrl": "https://app-backend--yahoofinancebbd.replit.app/api/admin",
+  "apkDownloadUrl": "https://drive.google.com/uc?export=download&id=YOUR_FILE_ID"
 }
